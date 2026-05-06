@@ -1,4 +1,2 @@
-# University-Management-System
-A web app where:
-(a)Admin manages students & courses
-(b)Students can view their details and enrolled courses
+# CGPA-Calculator
+A simple CGPA calculator interface where you add a semester, enter subjects with credits and grades, and calculate GPA.
